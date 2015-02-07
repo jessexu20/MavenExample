@@ -10,6 +10,7 @@ public class App
     {
 	System.out.println("commit ");
 	System.out.println("new");
+	System.out.println("test");
         System.out.println( "Hello World!" );
     }
 }
