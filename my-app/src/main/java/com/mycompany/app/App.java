@@ -2,7 +2,6 @@ package com.mycompany.app;
 
 /**
  * Hello world!
- *
  */
 public class App 
 {
@@ -10,5 +9,6 @@ public class App
     {
 	System.out.println("test");
         System.out.println( "Hello World!" );
+        System.out.println( "Good night!" );
     }
 }
